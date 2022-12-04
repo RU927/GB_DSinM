@@ -10,7 +10,7 @@ age = int(input('Введите Ваш возраст: '))
 print(name, l, age)
 
 
-#2
+#2.
 
 time = t = int(input('Enter time: '))
 h = t // 60 // 60
